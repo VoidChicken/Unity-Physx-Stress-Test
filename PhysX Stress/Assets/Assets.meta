@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 2c3dbda7723b94f9989908f8d090b0de
 folderAsset: yes
 timeCreated: 1479874755
+=======
+guid: aeee8a8966287bc40ba659350996d622
+folderAsset: yes
+timeCreated: 1479884397
+>>>>>>> origin/unbroken-v2
 licenseType: Free
 DefaultImporter:
   userData: 
