@@ -86,9 +86,11 @@
   <ItemGroup>
     <Compile Include="Assets\AutoConnectSpring.cs" />
     <Compile Include="Assets\GammaCorrection.cs" />
+    <Compile Include="Assets\Rotate.cs" />
     <Compile Include="Assets\Spawner.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Assets\License.txt" />
     <None Include="Assets\Gamma Correction.shader" />
     <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
     <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
