@@ -1,5 +1,0 @@
-Edit: Completed
-
-Todo: Remove master-low-performance branch (without branch merge) and branch from master a new branch (master-lightweight). Disable high performance scripts within Main Camera in this new branch.
-
-(Will be performed by MyChade later on this afternoon)
