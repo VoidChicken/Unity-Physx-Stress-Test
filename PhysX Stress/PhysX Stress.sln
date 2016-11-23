@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysX Stress.Plugins", "PhysX Stress.Plugins.csproj", "{58D5CB94-34FC-7F69-4981-EA3FAF3FAC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysX Stress", "PhysX Stress.csproj", "{3E10F101-6BD3-9025-D0AA-5991ED45C518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysX Stress.Editor", "PhysX Stress.Editor.csproj", "{46362AC6-207A-CE8F-E218-A4C96A0019CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D5CB94-34FC-7F69-4981-EA3FAF3FAC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D5CB94-34FC-7F69-4981-EA3FAF3FAC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D5CB94-34FC-7F69-4981-EA3FAF3FAC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D5CB94-34FC-7F69-4981-EA3FAF3FAC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E10F101-6BD3-9025-D0AA-5991ED45C518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E10F101-6BD3-9025-D0AA-5991ED45C518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E10F101-6BD3-9025-D0AA-5991ED45C518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E10F101-6BD3-9025-D0AA-5991ED45C518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46362AC6-207A-CE8F-E218-A4C96A0019CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46362AC6-207A-CE8F-E218-A4C96A0019CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46362AC6-207A-CE8F-E218-A4C96A0019CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46362AC6-207A-CE8F-E218-A4C96A0019CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
